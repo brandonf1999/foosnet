@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    color: #0d0c22;
+}
+nav {
+    padding: 10px 0px 9px 20px;
+    width: 100%;
+    border-bottom: 1px solid #0d0c22;
+}
+nav h1 {
+    margin-left: 10px;
+    font-weight: bold;
+}
+.index-header {
+    margin: 5vh auto 5vh auto;
+    text-align: center;
+}
+.index-sub-header {
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+.index-card {
+    width:60%;
+    margin: 20px 0px 0px 20%;
+    border: 1px solid #0d0c22;
+}
+.index-card img {
+    width:100%;
+    border-bottom: 1px solid #0d0c22;
+}
+.index-card h2 {
+    margin-left: 10px;
+}
+.index-card p {
+    margin-left: 10px;
+}
